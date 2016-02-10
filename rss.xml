@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Wee House]]></title>
+        <description><![CDATA[The Wee House]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 18:17:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wee House description]]></title>
+            <description><![CDATA[<article><h1>Wee House description</h1><p>The
+Wee House</p></article>]]></description>
+            <link>undefinedwee-house-description/index.html</link>
+            <guid isPermaLink="false">23782054-461f-468e-b55c-90458aeca819</guid>
+            <pubDate>Wed, 10 Feb 2016 18:16:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
